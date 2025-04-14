@@ -6,3 +6,5 @@ To enhance security, file upload restrictions are implemented, preventing multim
 The setup is optimized for user management, security, and controlled file transfers.
 This FTP solution is ideal for environments requiring isolated user access with customizable permissions. 
 It provides a robust, scalable, and secure way to manage FTP users while ensuring compliance with best security practices.
+
+Welcome to suggestions and collabration and if any have better idea to update/upgrade the script do let me know.  
